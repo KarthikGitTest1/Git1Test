@@ -5,6 +5,9 @@ public class Test2 {
 		
 		System.out.println("Testing");
 		
+		 System.out.println("2n changes Eclipse Onemore workspace1");
+		 
+		 
         double n1 = -4.5, n2 = 3.9, n3 = 2.5;
 
         if( n1 >= n2 && n1 >= n3)
@@ -17,6 +20,7 @@ public class Test2 {
             System.out.println(n3 + " is the largest number.");
 
         System.out.println("2n changes post commit");
+        System.out.println("2n changes Eclipse Onemore workspace2");
 	}
 
 }
